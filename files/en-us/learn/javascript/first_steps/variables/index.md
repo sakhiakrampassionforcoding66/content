@@ -5,17 +5,7 @@ slug: Learn/JavaScript/First_steps/Variables
 
 {{LearnSidebar}}{{PreviousMenuNext("Learn/JavaScript/First_steps/What_went_wrong", "Learn/JavaScript/First_steps/Math", "Learn/JavaScript/First_steps")}}
 
-After reading the last couple of articles you should now know what JavaScript is, what it can do for you, how you use it alongside other web technologies, and what its main features look like from a high level. In this article, we will get down to the real basics, looking at how to work with the most basic building blocks of JavaScript — Variables.
 
-<table>
-  <tbody>
-    <tr>
-      <th scope="row">Prerequisites:</th>
-      <td>
-        Basic computer literacy, a basic understanding of HTML and CSS, an
-        understanding of what JavaScript is.
-      </td>
-    </tr>
     <tr>
       <th scope="row">Objective:</th>
       <td>To gain familiarity with the basics of JavaScript variables.</td>
